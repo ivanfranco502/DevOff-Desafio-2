@@ -1,0 +1,10 @@
+obj
+EscitalaAPI.csproj.user
+Web.Debug.config
+Web.Release.config
+bin
+App_Data
+TestResults
+packages
+*.user
+.vs
